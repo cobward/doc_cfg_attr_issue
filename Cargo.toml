@@ -1,0 +1,7 @@
+[package]
+name = "doc_cfg_attr"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+debug = []
